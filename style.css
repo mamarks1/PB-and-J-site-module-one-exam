@@ -1,0 +1,49 @@
+html{
+    background-color: #680A0A;
+    margin: 0 auto
+}
+body{
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px
+}
+
+img{
+    width: 500px;
+}
+
+p.thank-you-note{
+    font-size: 12px;
+    font-style: italic;
+    padding-top: 5px
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-size: 40px;
+}
+
+a{
+    color: #680A0A;
+    text-decoration: none
+}
+
+a:hover{
+    text-decoration: underline black;
+    color: black
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color: black;
+    height: 1px;
+  }
